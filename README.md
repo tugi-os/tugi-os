@@ -2,7 +2,7 @@
 
 ## Projects
 
-- **[Vigenère Cipher Plus](https://github.com/tugi-os/vigenere-cipher-plus)**  
+- **[Vigenère Cipher Plus](https://github.com/tugi-os/VigenereCipherPlus)**  
   Enhanced Vigenère Cipher with randomized vowel shifts to explore encryption complexity. Simple, effective, and secure.
 
 ## Focus Areas
