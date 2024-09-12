@@ -1,16 +1,22 @@
-## Hi there 👋
+# Tuğrul Bayezit
 
-<!--
-**tugi-os/tugi-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+- **[Vigenère Cipher Plus](https://github.com/tugi-os/vigenere-cipher-plus)**  
+  Enhanced Vigenère Cipher with randomized vowel shifts to explore encryption complexity. Simple, effective, and secure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- **Cryptography**: Innovating within encryption methods and securing communication.
+- **Blockchain Technology**: Exploring decentralized systems and smart contracts.
+- **Machine Learning**: Developing fundamental skills in data analysis and prediction.
+
+## Skills
+
+- Cryptography | Blockchain | Programming  
+  Early-stage coder, focused on continuous improvement.
+
+## Contact
+
+- Email: [tugrulbayezit@protonmail.com](mailto:tugrulbayezit@protonmail.com)
+
