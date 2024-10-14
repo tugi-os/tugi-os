@@ -1,5 +1,6 @@
 # Tuğrul Bayezit
 
+
 ## Focus Areas
 
 - **Cryptography**: Innovating within encryption methods and securing communication.
